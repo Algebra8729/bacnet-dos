@@ -29,3 +29,4 @@ python app.py --iface eth0 relinquish --target "Insert ip" --inst 1
 
 ### ⚠️ Disclaimer
 Cet outil est destiné à un usage éducatif et professionnel uniquement. L'auteur décline toute responsabilité en cas d'usage malveillant sur des infrastructures de production.
+For Educational and Professional Audit Purposes Only
